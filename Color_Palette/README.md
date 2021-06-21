@@ -4,7 +4,7 @@
 ## Main Color
 
 | Color | HEX | RGBA | CMYK |
-| ----------- | ----------- |
+| ----------- | ----------- | ----------- | ----------- |
 | ![Yellow](./fill/yellow.png) | `#F2FE67` | `rgba(242, 254, 103, 1)` | `5 0 59 0` |
 
 The main and constant color of Tinyman brandy is yellow. In the images and visuals that will be created outside of Tinyman platform, this yellow color should have priority over other colors on palette.
@@ -12,7 +12,7 @@ The main and constant color of Tinyman brandy is yellow. In the images and visua
 ## Secondary Colors
 
 | Color | HEX | RGBA | CMYK |
-| ----------- | ----------- |
+| ----------- | ----------- | ----------- | ----------- |
 | ![Black](./fill/black.png) | `#000000` | `rgba(0, 0, 0, 1)` | `60 40 40 100` |
 | ![Green](./fill/green.png) | `#10CD7E` | `rgba(16, 205, 126, 1)` | `69 0 66 0` |
 | ![Pink](./fill/pink.png) | `#10CD7E` | `rgba(255, 219, 254, 1)` | `3 19 0 0` |
@@ -24,7 +24,7 @@ These are the secondary colors in addition to the primary color yellow. These an
 ## Gradient Palette
 
 | Gradient | Description | HEX | linear-gradient |
-| ----------- | ----------- |
+| ----------- | ----------- | ----------- | ----------- |
 | ![Green to Yellow](./fill/green-to-yellow.png) | Green to yellow | `#10CD7E` to `#F2FE67`  | `linear-gradient(180deg, #10CD7E 0%, #F2FE67 100%)`|
 | ![Green to Pink](./fill/green-to-pink.png) | Green to pink | `#10CD7E` to `#FFDBFE` | `linear-gradient(180deg, #10CD7E 0%, #FFDBFE 100%)` |
 | ![Blue to Pink](./fill/blue-to-pink.png) | Blue to pink | `#10CD7E` to `#FFDBFE` | `linear-gradient(180deg, #2958FF 0%, #FFDBFE 100%)` |

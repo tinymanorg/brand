@@ -12,7 +12,7 @@ You can visit the ["Emojis"](../Emojis) section to see more animation examples.
 
 | Animation |
 | ----------- | 
-| ![Tinyman Dance](./Tinyman_Dance.gif) | 
+| ![Tinyman Dance](./Tinyman_Dancing.gif) | 
 | ![Tinyman Pooler](./Tinyman_Pooler.gif) | 
 | ![Tinyman Swapper](./Tinyman_Swapper.gif) | 
 
