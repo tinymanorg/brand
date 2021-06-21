@@ -19,7 +19,9 @@ The main and constant color of Tinyman brandy is yellow. In the images and visua
 | ![Purple](./fill/purple.png) | `#10CD7E` | `rgba(160, 86, 255, 1)` | `64 78 0 0` |
 | ![Blue](./fill/blue.png) | `#10CD7E` | `rgba(41, 88, 255, 1)` | `86 62 0 0` |
 | ![Red](./fill/red.png) | `#10CD7E` | `rgba(255, 96, 62, 1)` | `0 80 69 0` |
+
 These are the secondary colors in addition to the primary color yellow. These and the tones of these colors can be used as supporting colors while creating any visual asset.
+
 
 ## Gradient Palette
 
