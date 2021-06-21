@@ -10,6 +10,8 @@ To create Tinyman-style animations, you must first prepare a background by using
 
 You can visit the ["Emojis"](../Emojis) section to see more animation examples.
 
+&nbsp;
+
 | Animation |
 | ----------- | 
 | ![Tinyman Dance](./Tinyman_Dancing.gif) | 
