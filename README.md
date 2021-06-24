@@ -1,19 +1,17 @@
 # Tinyman Brand Assets
-![Tinyman Brand Guidelines](./Visual_Assets/Tinyman_Generic.png)
-
 This repository is the primary location for downloading Tinyman brand assets like logos, color swatches, fonts, and other brand elements.
 
 &nbsp;
 
 ## Table of Contents
-- Logo & Tinyman
-- App Icon
-- Color Palette
-- Typefaces
-- Visual Assets
-- 3D Character
-- Emojis
-- Animations
+- [Logo & Tinyman](./Logo/)
+- [App Icon](./App_Icon/)
+- [Color Palette](./Color_Palette/)
+- [Typefaces](./Typeface/)
+- [Visual Assets](./Visual_Assets/)
+- [3D Character](./3D_Character/)
+- [Emojis](./Emojis/)
+- [Animations](./Animations/)
 
 &nbsp;
 
